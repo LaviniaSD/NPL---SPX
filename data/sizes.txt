@@ -544,7 +544,7 @@ Speaker: Yves Mersch
 57
 82
 156
-Speaker: Benoît Cœuré
+Speaker: Benoï¿½t Cï¿½urï¿½
 285
 287
 258
@@ -735,7 +735,7 @@ Speaker: Benoît Cœuré
 127
 249
 144
-Speaker: Sabine Lautenschläger
+Speaker: Sabine Lautenschlï¿½ger
 216
 62
 75
@@ -1134,7 +1134,7 @@ Speaker: Peter Praet
 138
 136
 50
-Speaker: Vítor Constâncio
+Speaker: Vï¿½tor Constï¿½ncio
 899
 961
 390
@@ -1261,7 +1261,7 @@ Speaker: Vítor Constâncio
 70
 258
 193
-Speaker: Jörg Asmussen
+Speaker: Jï¿½rg Asmussen
 65
 33
 185
@@ -1313,7 +1313,7 @@ Speaker: Jörg Asmussen
 57
 152
 48
-Speaker: José Manuel González-Páramo
+Speaker: Josï¿½ Manuel Gonzï¿½lez-Pï¿½ramo
 312
 148
 83
@@ -1553,7 +1553,7 @@ Speaker: Lorenzo Bini Smaghi
 292
 278
 243
-Speaker: Jürgen Stark
+Speaker: Jï¿½rgen Stark
 146
 248
 203
@@ -2603,7 +2603,7 @@ Speaker: Willem F. Duisenberg
 96
 173
 64
-Speaker: Sirkka Hämäläinen
+Speaker: Sirkka Hï¿½mï¿½lï¿½inen
 145
 168
 156
