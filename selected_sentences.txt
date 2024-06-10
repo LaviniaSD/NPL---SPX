@@ -2,419 +2,597 @@ Speaker: Christine Lagarde
 Selected Sentences:
 However, there are increasing signs of a bottoming-out and some forward-looking indicators point to a pick-up later this year
 b
+Positive
 This will be essential to enhance credibility and anchor expectations about the future course of fiscal policies
 b
+Positive
 Our capital markets remain fragmented and, as a result, lack depth and liquidity, especially when compared with those of the United States
 b
+Negative
 ” Her words resonate strongly today
 d
+Neutral
 [4]  A more integrated Single Market would help unleash Europe’s growth potential, boosting our shared prosperity
 b
+Positive
 To reduce the bloc’s vulnerability to global shocks, improvements in energy security, efficiency and affordability will be vital
 b
+Neutral
 
 Speaker: Isabel Schnabel
 Selected Sentences:
 Productivity Revival: What Do the Industry Data Say?”, American Economic Review, Vol
 b
+Neutral
 See also Biondi et al
 d
+Neutral
 In the four largest economies in the euro area, the ratio of labour productivity compared with that of the United States increased rapidly, soaring from 25% in 1945 to 100% in 1995 and thereby closing the productivity gap with the United States (Slide 2, left-hand side)
 b
+Positive
 and Marquez, J
 d
+Neutral
 11(1), pp
 d
+Neutral
 and Hitt, L
 d
+Neutral
 
 Speaker: Piero Cipollone
 Selected Sentences:
 When receiving a payment, this would allow automated conversion of retail central bank digital currency in excess of a holding threshold into a bank deposit held in a linked commercial bank account chosen by the end user
 a
+Neutral
 Together with technology experts, the ECB is considering all state-of-the-art security and privacy measures that could be suitable for a mass retail payment product such as a digital euro
 a
+Neutral
 In my previous role, I received countless letters from mayors of communities – in mountainous regions for instance – who expressed concerns about increasingly long distances to the nearest ATM
 d
+Negative
 Quite the opposite: their objective is to expand their customer base and gain market share
 b
+Neutral
 First, as is the case for euro banknotes, digital euro holdings would not be remunerated and hence would not compete with savings deposits
 a
+Negative
 [22]  Fourth, we would implement state-of-the-art security and privacy-preserving measures to ensure privacy protection
 d
+Positive
 
 Speaker: Luis de Guindos
 Selected Sentences:
 Indeed, the unemployment rate is at its lowest level since the introduction of the euro – despite slowing labour demand and fewer vacancies being advertised more recently
 a
+Positive
 Parts of the non-bank financial sector also have significant leverage on and off-balance sheet
 a
+Negative
 And given the typical lags in monetary transmission, much of the economic impact of our past policy rate hikes will continue to materialise over time
 a
+Positive
 It is therefore essential that we do not look at the projections in isolation, but rather alongside incoming data
 d
+Neutral
 Looking at the euro area inflation forecast errors, we have observed two things
 c
+Neutral
 According to a 2022 European Investment Bank survey, more than 50 per cent of firms in Greece and Spain and more than one-third of firms in Italy, Portugal and Cyprus consider bureaucracy, restrictive regulations and high tax burdens to be major obstacles to investment
 d
+Negative
 
 Speaker: Philip R. Lane
 Selected Sentences:
 cit
 d
+Neutral
 The latest observation is for the third quarter of 2023
 d
+Neutral
 However, security holdings that are held in custody outside the euro area can at best be estimated
 a
+Negative
 and Curcuru, S
 d
+Neutral
 Notes: For assets, a positive (negative) number indicates net purchases (sales) of non-euro area instruments by euro area investors
 a
+Neutral
 , Lewis, A
 d
+Neutral
 
 Speaker: Frank Elderson
 Selected Sentences:
 Taking action through enforcement Let me now turn to climate-related and environmental (C&E) risks as a recent and tangible example of supervisory escalation following a multi-year strategy
 d
+Neutral
 But have we always used our full toolbox as extensively as we might? Effectiveness of European banking supervision In almost ten years of European banking supervision, we have certainly been effective in many risk areas
 a
+Positive
 [8]  I think you will all agree that the ECB has a rather extensive and intrusive toolbox at its disposal
 d
+Neutral
 But can we give banks the right incentives to remedy the deficiencies we identify? Do we have the powers to get banks to do things they don’t want to do?  Let me emphasise that we do not come to the task empty handed
 a
+Positive
 And we have the power to remove at any time members from the management body of credit institutions who do not fulfil the requirements set out in the relevant acts
 a
+Neutral
 Promoting timely and effective remediation is an essential part of our supervisory DNA and it will be central to European banking supervision in the years to come
 a
+Positive
 
 Speaker: Fabio Panetta
+
 Selected Sentences:
 It has been estimated that national budgets in the euro area could provide as much stabilisation of asymmetric shocks as the US federal budget
 b
+Positive
 We must not sacrifice much-needed investment, which has been too low for too long,[17] with detrimental longer-term effects
 a
+Negative
 [18] Even in highly efficient economies, low public investment and the associated private investment gap have eroded competitiveness over time, jeopardising future growth
 b
+Negative
 [20] We made specific, technical suggestions to refine the new framework
 d
+Neutral
 Macroeconomic simulations suggest that if a consistently countercyclical fiscal policy for the euro area had been maintained over time, fiscal buffers could have been built up in the good times (e
 b
+Neutral
 , Barkbu, B
 d
+Neutral
 
 Speaker: Yves Mersch
 Selected Sentences:
 That is a fiscal task, and we have encouraged the fiscal side to expand this intervention in view of the challenges that we are facing in Europe
 b
+Neutral
 The banks also have to take the decision which parts of the economy are beyond what is considered viable
 a
+Neutral
 Part of this has been attenuated and mitigated by moratoria and public guarantees
 d
+Positive
 So there have been many measures on the regulatory and supervisory side, and on the monetary side, to have the banks continue providing liquidity and credit to the economy
 a
+Positive
 A second issue that has to be discussed in relation to this proposal is whether we see a market failure
 b
+Negative
 That is the reason why we have what some people call self-imposed constraints
 d
+Neutral
 
 Speaker: Benoît Cœuré
 Selected Sentences:
 Monetary policy in a low-inflation environment What, then, can, or should, central banks do in this environment? Let me propose four elements for future reflection: how we define price stability, how we treat inflation expectations, how we measure inflation and how we implement monetary policy
 c
+Neutral
 Such shifts typically relate to persistent and slow-moving changes on the supply side of our economies, where monetary policy has less traction
 a
+Neutral
 6%
 d
+Neutral
 [20]  But expectations by household have pointed in a very different direction in recent times, painting a much less dire picture regarding the inflation outlook
 c
+Positive
 And this also curtails our policy options
 d
+Neutral
 [17]  And, second, the ECB would need to establish a clear track record that emphasises the centrality of the midpoint in the conduct of its policy
 d
+Neutral
 
 Speaker: Sabine Lautenschläger
 Selected Sentences:
 By pulling together, countries in Europe are in a better position to withstand global developments
 d
+Positive
 National arrogance and isolationism had culminated in two world wars – two world wars which had wreaked death, misery and chaos on Europe
 d
+Negative
 And so, before a referendum on abortion was held, a citizens’ assembly was brought together to discuss the issue
 d
+Neutral
 And even if it does take longer, we all stand to gain from closer cooperation within Europe
 d
+Positive
 Without trade barriers, without exchange rate risk
 b
+Positive
 An integrated market would thus increase the benefits of Europe for all countries
 b
+Positive
 
 Speaker: Mario Draghi
 Selected Sentences:
 The third group is Europe’s leaders
 d
+Neutral
 The Single Market, in this sense, was a bold attempt at “managed globalisation”
 d
+Neutral
 [8]Speech by President Emmanuel Macron to the European Parliament, Strasbourg, 17 April 2018
 d
+Neutral
 Thank you
 d
+Neutral
 It means that alignment between policies, where needed, must serve the objective of monetary stability and should not work to the detriment of it
 a
+Neutral
 [5]Average cyclically adjusted primary balance as a percentage of potential GDP
 b
+Neutral
 
 Speaker: Peter Praet
 Selected Sentences:
 The European Union as provider of stability and protection The European Union and the Single Market have successfully delivered decades of peace and growing prosperity throughout Europe
 b
+Positive
 This is a serious matter
 d
+Neutral
 It provides the legal framework for trade between Member States, underpinned by the four fundamental freedoms – free movement of goods, services, labour and capital
 b
+Positive
 Yet it is important to acknowledge the progress made so far, to keep a sense of direction
 d
+Neutral
 In times of global political and policy uncertainty, when the foundations of multilateralism are being challenged and global economic powers are flexing their muscles, it is indispensable for us to take European integration forward
 d
+Negative
 [7]On the notion of sovereignty in a globalised world, see Mario Draghi (2019)
 d
+Neutral
 
 Speaker: Vítor Constâncio
 Selected Sentences:
 Dell’Ariccia and M
 d
+Neutral
 It is well documented that the second recession of 2012-13 in the euro area was the result of the simultaneous fiscal consolidation by member states
 b
+Neutral
 Nonetheless, the proposals to move for a simpler expenditure rule, combined with a gradualist debt rule deserve discussion as a possible long-term solution
 d
+Neutral
 [4] Timmermans, F
 d
+Neutral
 This would be combined with a full implementation of banking union with all its features, from EDIS to a stronger bail-in resolution regime
 d
+Neutral
 and I
 d
+Neutral
 
 Speaker: Jörg Asmussen
 Selected Sentences:
 In parallel, work is underway on a bank recovery and resolution regime, which in our view is a crucial component in severing the link between sovereigns and banks and will be a complement to the SSM
 a
+Positive
 We cannot, however, address by ourselves the underlying root causes of the problems that relate to fiscal and macroeconomic imbalances, a lack of competitiveness, low growth and high unemployment
 b
+Negative
 They have also embarked on the creation of a banking union that will centralise critical functions relating to the banking sector at the European level, thereby severing the direct link between sovereigns and their banking sectors that proved to be an Achilles heel during the crisis
 a
+Positive
 The programme we are closing today has been the ECB’s most complex and ambitious programme to date
 d
+Neutral
 Governments of EU Member States have to do their part of the work through structural reforms and fiscal consolidation to return the economy to long-term sustainable growth and to boost employment
 b
+Negative
 This very programme has been characterised by all the positive things that we agreed last week in Frankfurt would be important for success
 d
+Positive
 
 Speaker: José Manuel González-Páramo
 Selected Sentences:
 No one spoke of a “sovereign debt crisis”, much less of a “euro crisis”
 a
+Neutral
 And when these institutions and procedures become a reality and show that they can work, debates such as those we should have about the federalisation of banking supervision and deposit insurance, or the federalisation of fiscal policy will make sense
 a
+Neutral
 The need for institutionalized collective decision-making procedures is what defines a political union
 d
+Neutral
 Introduction Ladies and Gentlemen, Thank you very much for the invitation to speak today to the distinguished audience at OMFIF’s headquarters in London
 d
+Neutral
 It has been said repeatedly, perhaps with exaggeration, that when the history of the crisis which started five years ago is written, the ECB and the Eurosystem will emerge as the saviours of the euro
 d
+Positive
 Can anyone argue, after the intense experience of the crisis, that a European level of government is not the most effective way to conduct directly, or at least coordinate, certain economic and financial policies? Democratic accountability is a principle under which citizens must be able to demand accountability from politicians about the decisions taken
 d
+
 
 Speaker: Lorenzo Bini Smaghi
 Selected Sentences:
 Tommaso recognised it as such and identified some of the elements of a solution
 d
+
 This would require a policy framework anchoring the global standard to an objective of global stability
 d
+
 It is clear from this that prevention is always better than cure
 d
+
 First, he argued for some sort of “common exchange rate mechanism” which would ensure that every country agrees to shoulder its responsibility for the appropriate valuation of their currency and that exchange rates are determined by the interaction between the market and economic policy
 a
+
 It would also lower the need for reserves and official outflows to advanced countries, and the excessive demand for US dollar-denominated financial assets
 a
+
 This has been a major source of imbalances in recent years
 d
+
 
 Speaker: Jürgen Stark
 Selected Sentences:
 In fact, many euro area countries, notably the ones subject to EU/IMF programmes, are following such a strategy which I would like to call the European approach to fiscal adjustment
 d
+
 Growth dividends were not used for necessary consolidation in good times
 b
+
 Having said this, uncertainty remains very high and risks to the economic outlook on the downside
 b
+
 At the same time, it has to be recognised that sovereign debt issues are not confined to the euro area but have become an important issue for all advanced economies
 a
+
 As to monetary and credit developments, following double digit growth rates in the build-up of the financial crisis, signalling risks for macroeconomic instabilities and price stability, annual growth in the broad monetary aggregate M3 and in loans to the private sector fell sharply between 2008 and mid-2010 [SLIDE 5]
 a
+
 At the same time, domestic price pressures have remained moderate
 c
+
 
 Speaker: Jean-Claude Trichet
 Selected Sentences:
 And Europe is also faced with new global challenges, such as climate change and migration, where effective solutions are possible only at the European and international levels
 d
+
 The euro has extended the zone of monetary stability to Germany’s main trading partners in the euro area
+
 a
+
 Yet the crisis has damaged banks and at times severely disrupted the functioning of financial markets
 d
+
 They seek assurance that it remains a community of stability
 d
+
 Her family had emigrated to Berlin following the Revocation of the Edict of Nantes, a reminder that European integration is a process that has been with us for centuries
 d
+
 It is precisely because we want to defend and reinforce the principles we cherish, that we have to shape our policies appropriately
 d
+
 
 Speaker: Gertrude Tumpel-Gugerell
 Selected Sentences:
 Sie alle wissen, dass die IBAN hier in Deutschland ganz einfach aus der Kontonummer des Kunden, der Bankleitzahl, einer zweistelligen Prüfziffer und einem Ländercode besteht
 d
+
 Persönliche Schlussbetrachtung Ich denke es ist kein Geheimnis, dass meine Amtszeit in der Europäischen Zentralbank in diesem Monat zu Ende geht
 d
+
 eu/consumers/strategy/docs/EC_e-commerce_Final_Report_201009_en
 d
+
 im siebenten SEPA-Fortschrittsbericht, der im Oktober 2010 veröffentlicht wurde
 d
+
 Wir müssen jedoch sicherstellen, dass Europa beim elektronischen Handel nicht den Anschluss verliert
 d
+
 Die vom Eurosystem vorgeschlagenen Termine – Ende Januar 2013 für die SEPA-Überweisung und Ende Januar 2014 für die SEPA-Lastschrift – stellen Übergangsfristen von gut vier Jahren seit der Einführung des jeweiligen Zahlungsinstruments dar und werden daher als ausreichend beurteilt
 d
+
 
 Speaker: Lucas Papademos
 Selected Sentences:
 The fourth risk identified outside the euro area financial system is the possibility of greater-than-expected household sector credit losses if unemployment rises by more than expected
+
 b
+
 The main reason for the severe deterioration of public finances was the activation of automatic stabilisers as a result of the marked contraction of economic activity which followed the collapse of Lehman Brothers
 b
+
 II
 d
+
 Opening remarks at the press briefing on the occasion of the publication of the June 2010 ECB Financial Stability Review   Speech by Lucas Papademos, Vice President of the ECB,Frankfurt, 31 May 2010  I
 d
+
 Chart 6 on slide 11 shows the profile of write-downs on securities and loans over time, applying the same methodology as in previous assessments published in the FSR
 d
+
 I would also like to briefly comment on the current state of the euro area securitisation markets
 d
+
 
 Speaker: Otmar Issing
 Selected Sentences:
 This is because the tendency to invest more in international markets – as reflected in the surge in cross-border portfolio flows – has been accompanied by the tendency of households to shift part of their savings towards riskier domestic assets, as the sharp rise in countries’ domestic market capitalisation reveals
 b
+
 (2005), “Economic reactions to public finance consolidation: A survey of the literature”, ECB Occasional Paper Series, n
 d
+
 Home bias in the equity market for the euro area, the US and Japan (annual data)   Chart 2
 b
+
 Therefore, one might expect that globalisation will also affect the number of currencies currently circulating in the world
+
 b
+
 and Poterba, J
 d
+
 In 2003, equity home bias amounted to 70% in the euro area and the US, and almost 90% in Japan (see Chart 1)
 b
 
+
 Speaker: Tommaso Padoa-Schioppa
+
 Selected Sentences:
 But there continue to be wide differences according to the type of business
 d
+
 There are about 6,500 credit institutions in the euro area and 8,800 in the recently enlarged EU, but only a tiny little set of them are really significant players in the cross-border banking business
 b
+
 An additional advantage of a single rulebook enshrined in secondary EU legislation is that it can be easily adapted to changing market conditions, under the “comitology” procedure
 d
+
 The home authority, for example, needs to be adequately informed about developments in local establishments that might impact the whole group; similarly, the host authority needs to be informed about developments upstream in the group that might have a significant impact on its local financial system and may even affect its taxpayers in case of a failure
 d
+
 On the other hand, they represent a fairly significant share in the total banking business
 d
+
 This bears witness of the fact that financial integration has indeed progressed over time, in particular after the introduction of the euro
 d
+
 
 Speaker: Eugenio Domingo Solans
 Selected Sentences:
 This is perhaps the point at which I should stress the close cooperation between the Directorate General Statistics of the ECB and Eurostat, which – although their statistical responsibilities extend to all areas of Community policy – give the highest priority to the statistical requirements of Economic and Monetary Union
 d
+
 While there are many national and international users, the most important users must be actively involved in this decision-making process
 d
+
 In spite of many efforts, there are still many statistical areas for which enhanced coordination is needed between national and European statistical institutions in order to provide better information to policy-makers, markets and to the general public
+
 d
+
 In general, I have the feeling that some of the statistics we have are not always in line with what our priorities should be
 d
+
 ) and to users outside the central bank (market players, researchers, the general public)
 d
+
 In general, statisticians should be closely involved in discussions on accounting standards in order to avoid unnecessary discrepancies between these standards and statistical requirements
 d
+
 
 Speaker: Willem F. Duisenberg
 Selected Sentences:
 I shall certainly miss the regular meetings and contacts I have with many of you, especially in the Eurogroup
 d
+
 Since this is the first time that a President of the European Central Bank has retired, I have no way of knowing if this is just standard protocol, or if it is something more
 d
+
 According to this view, the ECB would raise interest rates unnecessarily to prove its anti-inflation credentials
 c
+
 Frankly speaking, I also had some doubts
 d
+
 If you read the German press, well the story was different
 d
+
 Otherwise I fear the Pact will unravel, the contract with the people will be broken
 d
+
 
 Speaker: Sirkka Hämäläinen
 Selected Sentences:
 I would like to speak about the challenges to retail banking stemming from the changing environment and the European integration process
 d
+
 Each new member has tailored and will continue to develop its own strategy
 d
+
 In principle, the ECB and the central banks of the ERM II member countries commit themselves to provide automatic and unlimited defence of the exchange rate at the margins of the band
+
 d
+
 The banking community has committed itself to the creation of a Single Euro Payments Area (SEPA) and has set up the European Payments Council to govern this project
 a
+
 The trend towards securitisation witnessed in the EU has not yet spread to the acceding countries
 d
+
 An in-depth policy dialogue and technical assistance activities were initiated at a very early stage, and continue to be maintained by the Eurosystem
 b
+
 
 Speaker: Christian Noyer
 Selected Sentences:
 Beyond the shorter term, in the light of current expectations of a gradual economic recovery in the euro area, upward pressure on prices from aggregate demand should remain contained
+
 c
+
 The introduction of the euro banknotes and coins has not only enhanced price transparency, it will also highlight the fact that the European Single Market is not yet complete and that a number of regulatory, administrative or legal impediments to the free circulation of goods, the cross-border provision of services and to labour mobility still exist
 d
+
 We are obviously not satisfied with HICP developments in the course of last year
 c
+
 In the light of the central role of maintaining price stability that the Treaty assigns to monetary policy, I shall start by reporting that annual average HICP inflation in the euro area was 2
 c
+
 Presentation of the ECB's Annual Report 2001 to the Committee on Economic and Monetary Affairs of the European Parliament   Introductory statement delivered by C
+
 d
+
 In this respect, there is some cause for concern with regard to ongoing wage negotiations
 d
+
 
 Speaker: Willem F. Duisenberg,Eugenio Domingo Solans
 Selected Sentences:
 Question (translation): Can I ask you one last question? In France, as in many other countries, people are worried
+
 d
+
 It is a huge uphill struggle
 d
+
 Was it a conscious decision not to stress this factor?   Duisenberg: Yes, because this campaign is all about familiarising the public with the physical appearance of the euro
 d
+
 They will be transported today to the 12 national central banks participating in European Monetary Union
 a
+
 5 billion banknotes we estimate to be the needs of the Eurosystem, both to replace the existing national banknotes and to build the logistical stocks
 a
+
 Santaularia, because as you know, there are different scenarios concerning the introduction of the euro in each country
 d
+
 
 Speaker: Alexandre Lamfalussy
 Selected Sentences:
 Let us not forget that while the rich and the powerful can protect themselves from any loss of purchasing power of their money - and in many cases can even benefit from such a loss - the weak and the not-so-rich will always be the losers
 a
+
 But what should be the role of monetary policy? In view of the short time available to me - plus the fact that you cannot contradict me - I shall be brief
 a
+
 4
 d
+
 I should like to add that we should not have been able to achieve what has been done without the conviction - which each of us shares - that the first duty of a central bank is to maintain price stability
 c
+
 "Faceless" markets are not the only ones looking beyond the immediate present to the future - our fellow citizens are, too
 d
+
 This can only be done by means of measures which remedy labour market rigidities and reduce the burden of non-wage labour costs
 b
+
 
